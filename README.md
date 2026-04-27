@@ -37,7 +37,7 @@ KPI Dashboard
 ## 📂 Project Files
 
 👉 [Download Excel Model (GitHub)](./Supplychain_Distribution_Analytics.xlsx)  
-👉 [Download Excel Model (Google Drive)]([YOUR_DRIVE_LINK_HERE](https://docs.google.com/spreadsheets/d/1fNza5kbReAPmuFcVTkipJ_GS-A722slh/edit?usp=sharing&ouid=115452572888598600965&rtpof=true&sd=true))
+👉 [Download Excel Model (Google Drive)](https://docs.google.com/spreadsheets/d/1fNza5kbReAPmuFcVTkipJ_GS-A722slh/edit?usp=sharing&ouid=115452572888598600965&rtpof=true&sd=true)
 
 ## 📊 Project Features
 
