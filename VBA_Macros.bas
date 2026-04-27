@@ -1,16 +1,3 @@
-' ============================================================================
-' INDIA DISTRIBUTION & LOGISTICS ANALYTICS SYSTEM
-' VBA Macros for Excel (.xlsm)
-' Caterpillar Distribution Manager — Portfolio Project
-' ============================================================================
-' Instructions:
-' 1. Open the .xlsm file in Excel
-' 2. Press Alt + F11 to open VBA Editor
-' 3. Go to Insert > Module
-' 4. Copy and paste ALL the code below into the module
-' 5. Close VBA Editor
-' 6. Assign macros to button shapes on each sheet (Right-click > Assign Macro)
-' ============================================================================
 
 ' ----------------------------------------------------------------------------
 ' MACRO 1: RefreshDashboard
