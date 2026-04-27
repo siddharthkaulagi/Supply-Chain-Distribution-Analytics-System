@@ -72,11 +72,9 @@ KPI Dashboard
 
 ---
 
-## 📌 Resume Description
+## 📂 Project Files
 
-* Built a supply chain analytics system to analyze inventory, logistics, and distribution performance
-* Applied demand forecasting and KPI tracking to improve operational decision making
-* Demonstrated supply chain management, logistics optimization, and data analysis skills
+👉 [Download Excel Model](./Supplychain_Distribution_Analytics.xlsx)
 
 ---
 
